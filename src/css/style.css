@@ -1,0 +1,52 @@
+.background-navbar {
+    background: rgb(108, 108, 108);
+    background: linear-gradient(180deg, rgba(108, 108, 108, 1) 2%, rgba(34, 31, 31, 1) 100%);
+}
+
+.hover li Link {
+    content: "";
+    background-color: red;
+}
+
+body{
+    background-color: grey;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1em 0;
+  }
+
+  li a {
+    text-decoration: none;
+    color: white;
+    padding-right: 3em;
+    position: relative;
+    transition: all ease-in-out 250ms;
+  }
+
+  li a::after {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 0.4em;
+    width: 0%;
+    background-color: white;
+    bottom: -1em;
+    transition: all ease-in-out 250ms;
+  }
+
+  li a:hover::after {
+    width: 90%;
+  }
+
+  li a:hover {
+    color: white;
+  }
+
+
+  

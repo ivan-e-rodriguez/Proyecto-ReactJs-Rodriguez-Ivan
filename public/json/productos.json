@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "Computadora AMD 3.5ghz",
+        "categoria":"computadoras",
+        "descripcion": "Esta es una breve descripcion del producto 1",
+        "img":"computadora2.jpg",
+        "precio": 68999,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "nombre": "Computadora Dell Dual Core",
+        "categoria":"computadoras",
+        "descripcion": "Esta es una breve descripcion del producto 2",
+        "img":"computadora1.jpg",
+        "precio": 32999,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Computadora Gamer Intel AMD Dual Core",
+        "categoria":"computadoras",
+        "descripcion": "Esta es una breve descripcion del producto 3",
+        "img":"computadora3.jpg",
+        "precio": 66499,
+        "stock": 8
+    },
+    {
+        "id": 4,
+        "nombre": "Notebook Hp Probook Win 10",
+        "categoria":"notebooks",
+        "descripcion": "Esta es una breve descripcion del producto 4",
+        "img":"notebook.jpg",
+        "precio": 234499,
+        "stock": 6
+    },
+    {
+        "id": 5,
+        "nombre": "Monitor Gamer SAMSUNG 19\"",
+        "categoria":"monitores",
+        "descripcion": "Esta es una breve descripcion del producto 5",
+        "img":"monitor1.jpg",
+        "precio": 34499,
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "nombre": "Monitor Gamer SAMSUNG 24\"",
+        "categoria":"monitores",
+        "descripcion": "Esta es una breve descripcion del producto 6",
+        "img":"monitor2.jpg",
+        "precio": 54499,
+        "stock": 4
+    },
+    {
+        "id": 7,
+        "nombre": "Monitor Gamer SAMSUNG Curvo 32\"",
+        "categoria":"monitores",
+        "descripcion": "Esta es una breve descripcion del producto 7",
+        "img":"monitor3.jpg",
+        "precio": 93999,
+        "stock": 4
+    },
+    {
+        "id": 8,
+        "nombre": "Placa de video Nvidia MSI Ventus GeForce RTX 30",
+        "categoria":"graficas",
+        "descripcion": "Esta es una breve descripcion del producto 8",
+        "img":"tarjeta-grafica1.jpg",
+        "precio": 163250,
+        "stock": 4
+    },
+    {
+        "id": 9,
+        "nombre": "Placa de video AMD Gigabyte Gaming Radeon RX 500",
+        "categoria":"graficas",
+        "descripcion": "Esta es una breve descripcion del producto 9",
+        "img":"tarjeta-grafica2.jpg",
+        "precio": 238140,
+        "stock": 4
+    }
+]
